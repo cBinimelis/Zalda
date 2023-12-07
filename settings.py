@@ -1,0 +1,5 @@
+#settings
+WIDTH = 1290
+HEIGHT = 720
+FPS = 60
+TILESIZE = 64
